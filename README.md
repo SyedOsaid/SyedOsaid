@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c and c# 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Using email address -> syedosaidh2006@gmail.com
-- 😷 I am in class 9th
+- 👨🏽‍🎓 I am in class 9th
 
 
 <!---
